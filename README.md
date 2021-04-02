@@ -1,1 +1,1 @@
-찌야냥<a href="찌야냥.html"><ul><li>목록</ul></a>
+<meta charset="utf-8">찌야냥<a href="찌야냥.html"><ul><li>목록</ul></a>
